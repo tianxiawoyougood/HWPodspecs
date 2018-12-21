@@ -1,0 +1,16 @@
+PODS:
+  - HWMangers (0.1.0)
+
+DEPENDENCIES:
+  - HWMangers (from `../`)
+
+EXTERNAL SOURCES:
+  HWMangers:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HWMangers: cafc2c4ce1eaf4a2650ea8fbbaee02da7c6d18ad
+
+PODFILE CHECKSUM: 94736830f3a114a06f2acfe85093a949204f0858
+
+COCOAPODS: 1.5.3
