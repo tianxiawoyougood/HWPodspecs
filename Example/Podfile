@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'HWMangers_Example' do
+  pod 'HWMangers', :path => '../'
+
+  target 'HWMangers_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
