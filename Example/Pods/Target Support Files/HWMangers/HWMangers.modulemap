@@ -1,6 +1,0 @@
-framework module HWMangers {
-  umbrella header "HWMangers-umbrella.h"
-
-  export *
-  module * { export * }
-}
